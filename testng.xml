@@ -1,0 +1,27 @@
+
+
+<suite name="Suite">
+ <test name="verify">
+ <classes>
+ <class name="amaz.Homepage"></class>
+ </classes>
+ </test>
+ <test name="log">
+ <classes>
+ <class name="amaz.Logintest"></class>
+ </classes>
+ </test>
+ <test name="item"> 
+ <classes>
+ <class name="amaz.Selectingitem">
+ </class>
+ 
+ </classes>
+ 
+ 
+ 
+ </test>
+ 
+ 
+ 
+</suite> 
